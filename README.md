@@ -24,9 +24,9 @@ This Python application offers a user-friendly way to translate text or speech i
 
 ## Usage
 
-1. Run the `main.py` file:
+1. Run the `trans.py` file:
    ```bash
-   python main.py
+   python trans.py
    ```
 2. Enter the desired target language code (e.g., 'en' for English, 'es' for Spanish) when prompted.
 3. Choose between text input ('t') or voice input ('v') for each translation.
