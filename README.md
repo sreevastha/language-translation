@@ -50,6 +50,3 @@ Contributions are welcome! Please follow these steps:
 4. Push your changes to your fork.
 5. Create a pull request for your changes to be considered for merging.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
