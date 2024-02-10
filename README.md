@@ -15,7 +15,7 @@ This Python application offers a user-friendly way to translate text or speech i
 
 1. Clone this repository using:
    ```bash
-   git clone https://github.com/your-username/language-translation.git
+   git clone https://github.com/sreevastha/language-translation.git
    ```
 2. Install the required libraries:
    ```bash
